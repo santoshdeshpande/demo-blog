@@ -36,3 +36,5 @@ In all of the above incidents, user information was stolen leading to disclosure
 
   
 The impact of a data or security breach can range from outage (having short term revenue impact), loss of trust (leading to long term revenue impact), lawsuits against the company, government actions against the company (in case of compliance violations) and so on.
+
+[photo-1588063163997-06dfe8a1981a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80](https://images.unsplash.com/photo-1588063163997-06dfe8a1981a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80 "photo-1588063163997-06dfe8a1981a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80")
