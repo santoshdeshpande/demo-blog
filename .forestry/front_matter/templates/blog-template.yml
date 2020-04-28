@@ -11,3 +11,6 @@ fields:
 - type: textarea
   name: description
   label: description
+- name: published
+  type: boolean
+  label: Published
